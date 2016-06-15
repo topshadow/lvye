@@ -93,7 +93,7 @@
 			k.setData = function(){
 				k.data.title = new Array();
 				$(k.self).children('div').each(function(){
-					k.data.title.push($(this).find('img').attr('alt'));
+					k.data.title.push($(this).find('images').attr('alt'));
 				})					
 			};
 			
@@ -105,11 +105,11 @@
 				$('.'+k.prename+'image_item',k.self).each(function() {
                     var a = $(this).children('a');
 					if(a.length){
-						var image = a.children('img').attr('src');
-						a.children('img').remove();
+						var image = a.children('images').attr('src');
+						a.children('images').remove();
 					}else{
-						var image = $(this).children('img').attr('src');
-						$(this).children('img').remove();		
+						var image = $(this).children('images').attr('src');
+						$(this).children('images').remove();		
 					}
 					//
 					$(this).css({background:'url('+image+') no-repeat '+options.imageAlign,'z-index':0});
