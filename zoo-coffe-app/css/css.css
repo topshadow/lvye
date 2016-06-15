@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0; font-size:12px; font-family:"微软雅黑"; }
+h3,h4{ color:#41220F}
+p{ color:#666767}
+
+p{ line-height:20px}
+.clear{clear:both}
+
+.wrap{ width: 142%; margin:0 auto;}
+
+.introduction{margin:30px 0}
+.introduction .head1{padding-bottom:10px;}
+.introduction h3{ text-align:center;}
+.introduction p{ text-align:center; font-size:12px;}
+.introduction h3 span{background:#F9D3D4; font-size:20px; line-height:30px;}
+.introduction p span{}
+.introduction p span strong{ background:#FFFFFF; font-weight:normal;}
+
+.img{background: url(../img/zoo_coffee.png) no-repeat center; height:358px}
+
+
+.content{ margin:30px 0px}
+.content .head2{ float:left; margin:0px 0px 20px 500px;}
+.content .head2 h3{float:left; padding-top:30px;}
+.content .head2 h3 span{ font-size:20px; line-height:30px;}
+.content .head2 img{float:left;padding-left:3px;}
+.content .head2 .head2-E{ font-size:20px; line-height:30px; float:left}
+.content .left{width:593px; float:left; text-align:right;}
+.content .left p span{}
+.content .right{width:593px; float:right; text-align:left;}
+
+.content2{ margin:60px 0px 30px 0px}
+.content2 .head2{ float:left; margin:0px 0px 20px 500px;}
+.content2 .head2 h3{float:left; }
+.content2 .head2 h3 span{ font-size:20px; line-height:30px;}
+.content2 .head2 img{float:left;padding-left:3px;}
+.content2 .head2 .head2-E{ font-size:20px; line-height:30px; float:left}
+.content2 .left{width:593px; float:left; text-align:right;}
+.content2 .left p span{}
+.content2 .right{width:593px; float:right; text-align:left;}
+
+
+table{margin:0px 0px 60px 287px}
+table tr td{ padding-left:10px;}
+table .th1{ background:#643419; width:200px; height:36px}
+table .th1 span{color:#FFFFFF}
+table .th2{ background:#643419;width:400px; height:36px}
+table .th2 span{color:#FFFFFF}
+table tr span{ font-weight:bold}
+table .td1{background:#F2F2F1;width:200px;height:36px}
+table .td2{background:#F2F2F1;width:400px;height:36px}
+
+.content3{ margin:30px 0px}
+.content3 .head2{ float:left; margin:0px 0px 20px 500px;}
+.content3 .head2 h3{float:left;padding-top:15px}
+.content3 .head2 h3 span{ font-size:20px; line-height:30px;}
+.content3 .head2 img{float:left;padding-left:3px;}
+.content3 .head2 .head2-E{ font-size:20px; line-height:30px; float:left}
+.content3 .left{width:593px; float:left; text-align:right;}
+.content3 .left p span{}
+.content3 .right{width:593px; float:right; text-align:left;}
+
+.content3 .head2-0{ float:left; margin:0px 0px 10px 490px;}
+.content3 .head2-0 h4{float:left;}
+.content3 .head2-0 h4 span{ font-size:18px; line-height:26px;}
+.content3 .head2-0 .head2-E{ font-size:18px; line-height:26px; float:left; margin-left:30px}
+
+.content3 .head2-1{ float:left; margin:10px 0px 10px 505px;}
+.content3 .head2-1 h4{float:left;}
+.content3 .head2-1 h4 span{ font-size:18px; line-height:26px;}
+.content3 .head2-1 .head2-E{ font-size:18px; line-height:26px; float:left;}
+.content3-1 .left{width:575px; float:left; text-align:right;}
+.content3-1 .left p span{}
+.content3-1 .right{width:585px; float:right; text-align:left;}
+
+
+#bottom_banner{margin-top:100px;}
+
+.zebra{position:absolute; left:0px; top:2400px}
+.giraffe2{position:absolute; right:0px; top:2000px;}
+.flower{background:url(../img/flower.png) center no-repeat; width:100%; height:372px;}
+
+
+
+
+
+
+

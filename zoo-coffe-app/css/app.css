@@ -1,0 +1,14 @@
+.deep-color{
+    color:#41220F;
+}
+.weight{
+    font-weight: 600;
+}
+
+.active-btn{
+    background-color: #41220F;
+    color:white;
+}
+.col-xs-12{
+    height: 20px;
+}

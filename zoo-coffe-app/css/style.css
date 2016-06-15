@@ -1,0 +1,49 @@
+.h3{
+    color:#41220F;
+
+}
+
+@media screen and (max-device-width:450px) {
+    #index_banner .kinMaxShow_image_box {
+        width: 142% !important;
+    }
+
+    #bottom_banner .kinMaxShow_image_box {
+        width: 142% !important;
+    }
+
+    #index_banner .kinMaxShow_button {
+        left: 70% !important;
+    }
+
+    #bottom_banner .kinMaxShow_button {
+        left: 70% !important;
+    }
+
+    .flower {
+        width: 136%;
+    }
+}
+table{
+	margin-left:388px;
+}
+
+.content .left p span{
+		background-color:#F2F2F1;
+}
+   
+#bottom_banner{ position: relative; }
+.information{
+    font-weight: bold;
+    color:#41220F;
+    font-size: 14px;
+	text-align:left;
+}
+
+.banner{
+    width:100%;
+    height:100%;
+}
+.deep-color{
+    color:#41220F;
+}

@@ -1,0 +1,357 @@
+body,button, input, select, textarea {
+    font-family:'微软雅黑','宋体',tahoma, Srial, helvetica, sans-serif;
+}
+/**===================product-sub  Style=============================**/
+.navbar-brand{
+  padding-top: 0;
+  margin-top: 0;
+  margin-left: 150px;
+}
+body{
+  overflow-x: hidden;
+}
+.navbar-default{  background-color:white; }
+
+@media screen and (min-device-width: 768px) {
+  .logo{
+    margin-left: 250px !important;
+}
+
+}
+
+
+.logo img{
+    margin-top: 10px;
+}
+/**导航栏字体**/
+.navbar-nav li a{
+  color:black !important;
+  font-weight: 600;
+}
+
+.navbar-nav li{
+  margin-right: 20px;
+  border-right: 1px solid #FBF0DE;
+
+}
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+  background-color:white;
+  border-bottom: 2px solid #452415;
+}
+
+.navbar-header{
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.logo>img{
+  width:50%;
+  height:100%;
+
+}
+.navbar{
+  border:none;
+}
+
+.product-banner{
+   width:100%;
+}
+
+.product-menu{
+  margin-top:20px;
+  margin-left: 60px;
+}
+
+body > div > div > div.col-md-1.ative{
+  background-color: #461F0B;
+  color: white;
+  text-align: center;
+  border-radius: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.product-list{
+  padding-top: 20px;
+}
+
+.product-list figure{
+  width: 100%;
+  padding-bottom: 100%;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+}
+figcaption{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 8px;
+  font-family: cursive;
+}
+
+.pagination{
+  display: table;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+address{
+  background-color:#E8D4AF;
+}
+
+.information{
+  float:left;
+  padding-top:30px;
+  padding-bottom:30px;
+  color:black;
+}
+.media{
+  float:right;
+}
+.crcode{
+  padding-top:30px;
+  padding-bottom: 30px;
+}
+
+/***============================product-center Style===================****/
+.product-view img{
+  width:100%
+}
+
+.product-location {
+  padding-left: 15px;
+  margin-top:30px;
+  margin-bottom: 30px;
+}
+.product-summary{
+  padding-top: 70px;
+}
+.product-main-view{
+  margin-bottom:20px;
+}
+.product-summary{
+  font-size: 12px;
+}
+.pagination li a{
+    margin-right: 15px;
+    border-color: black;
+    color:black;
+}
+.pagination  li.active a{
+    background-color: #441F08 !important;
+    color:white;
+}
+
+
+/**=========================contact-us =========================**/
+
+.contact-us-form{
+    display: inline-block;
+  background: url(../images/contact-us/map.png) ;
+  width: 100%;
+  padding-bottom: 12%;
+  z-index: -1;
+  text-align: center;
+  background-origin: content-box;
+  background-size:cover;
+}
+
+.contact-us-form-input{
+  padding: 20px;
+  margin-left:33%;
+  margin-right:33%;
+  margin-top: 8%;
+  background-color:white;
+
+}
+
+.contact-form-title{
+  margin-bottom: 30px;
+}
+.contact-us-form-input input{
+  border:2px #745748 solid;
+
+  width:40%;
+}
+
+.float-left{
+  padding-left: 10px;
+  float: left;
+}
+.float-right{
+  padding-left: 10px;
+  float:right;
+}
+textarea{
+  width:100%;
+  margin-top:40px;
+  padding-left:10px;
+}
+.contact-us-submit{
+  float: left;
+  margin-top:20px;
+  padding: 10px 40px 10px 40px;
+  background-color: #3D1F0A;
+  color: white;
+  border-radius: 5px;
+
+}
+/***===================index===============================================***/
+.index-events-report{
+
+}
+.product-series{
+  margin-bottom:40px;
+}
+.product-series h1 {
+  color: #432718;
+}
+
+.product-series span{
+  border-bottom: 1px dashed #AEAAA4;
+  margin-bottom: 20px;
+  margin-left: 48%;
+  color:#432718;
+  letter-spacing: 2px;
+  padding-bottom:10px;
+}
+
+.center-block{
+  margin-left: auto;
+  display: table;
+  margin-right: auto;
+}
+/**===============index.html==============================================**/
+
+.product-menu-button{
+  padding:10px 30px 10px 30px;
+  border-bottom: none;
+  border-right: 2px solid gray;
+  border-top: none;
+  border-left: none;
+  padding:0 30px;
+
+}
+.product-menu-active{
+
+}
+
+/**events report**/
+.product-menu-list{
+display:inline;
+}
+.product-menu-list li{
+  display: inline;
+}
+.product-menu-list:last-child li{
+  border-right:none;
+}
+
+.square a{
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.events-report{
+  background-color:#F7EBd5;
+}
+
+.index-menu{
+  margin-left:30%;
+  margin-right:auto;
+  width:40%;
+}
+.index-product-list{
+margin-top:40px;
+  padding-bottom:40px;
+
+}
+
+.decoration-line{
+  background-image:url(../images/index/decorate.png) ;
+  background-position: center;
+  height:20px;
+}
+
+.decoration-description{
+  margin-top:5px;
+  color:#7F4E26;
+  text-align: center;
+  font-weight:600;
+}
+.events-report-container{  background-color: #F7EBD5;  }
+.events-report-container-banner{
+  display: table;
+  margin-left: 30%;
+  margin-right: 30%;
+  width: 40%;
+}
+
+.events-report-container-banner > figure{
+  display: table-cell;
+  width: 25%;
+float:left;
+}
+.events-report-container-banner > figure >img{
+  width:100%;
+}
+
+
+.events-report-container-banner >figure figcaption{
+  position: relative;
+  float: right;
+  top: -40px;
+}
+.sub-title{
+  border-bottom: 1px gray;
+  border-style: dashed;
+  margin-bottom: 20px;
+}
+.index-product-service-item{
+  margin-bottom: 30px;
+}
+.index-events-report-list .col-md-4{padding: 0;margin:0;  }
+.index-events-report-list .col-md-3{padding: 0;margin:0;  }
+.index-events-report-list img{  width: 100%;  height: 100%;  }
+
+
+
+
+@media screen  and (max-device-width: 768px) {
+
+}
+
+/*====================news-center======================*/
+.topic{
+  padding-top: 20px;
+  padding-bottom:20px;
+
+  border-bottom: 2px dashed  #DEDAD9 ;
+}
+.topic .btn{
+    border-color:#461F0B;
+}
+
+/**============================toolbar==================================**/
+.toolbar{
+  display: none;
+}
+
+#product-class .active{
+  background-color:#e5540e;
+  border-radius: 40px;
+}
+#product-class .active a {
+  background-color: inherit;
+  border-radius: inherit;
+}
+
+
+.carousel-indicators{
+  margin-bottom:0;
+}
+
+.company-summary{
+    color:#461F0B;
+}

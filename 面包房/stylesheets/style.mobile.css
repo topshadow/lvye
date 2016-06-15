@@ -1,0 +1,63 @@
+/**小屏幕***/
+@media screen  and (max-device-width:768px){
+    .media{
+        float:none;
+    }
+    .navbar-nav li{
+        margin-right: 0 !important;
+    }
+    .index-events-report-list figure{
+        width:100%;
+        height: 290px !important;
+    }
+    .news-center-summary{
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .logo{
+        margin: 0;
+    }
+    .news-center-sub-banner{
+        padding: 0;
+        margin:0;
+    }
+    .toolbar{
+        display: table;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        height: 50px;
+        bottom: 0;
+    }
+    .toolbar li{
+        border:none;
+        padding: 0;
+        margin: 0;
+        width: 20%;
+        height: 50px;
+        display: table-cell ;
+        background-clip:border-box;
+        background-size: cover;
+        background-image: url(../images/app-toolbar.png);
+    }
+    .btn-back{
+    }
+    .btn-go{
+        background-position: 20%;
+    }
+    .btn-flash{
+        background-position: 50%;
+    }
+    .btn-option{
+        background-position: 77%;
+    }
+    .btn-home{
+        background-position: 103%;
+    }
+    address{
+        background-color:white;
+    }
+
+}
+

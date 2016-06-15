@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
+    <meta name="description" content="点财富">
+    <meta name="keywords" content="点财富">
+	<title>点财富</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/swiper.min.css">
+	<link rel="stylesheet" href="css/reset.css">
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/swiper.min.js"></script>
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="http://cdn.bootcss.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+	<!-- header 开始 -->
+	<header class="main-header" >
+        <div class="container">
+            <div class="row hidden-xs">
+                <div class="col-sm-6 col-md-6 col-lg-8 logo"><img src="images/logo.png" alt=""></div>
+				<div class="col-sm-6 col-md-6 col-lg-4 tel"><img src="images/tel.png" alt=""></div>
+            </div>
+            <div class="row visible-xs logo-sm">
+            	<img src="images/logo-sm.png" alt="">
+            </div>
+        </div>
+    </header>
+    <!-- end header -->
+    <!-- nav 开始 -->
+    <nav class="navbar navbar-inverse  site-navbar">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="index.html">首页</a></li>
+                    <li><a href="about.html">关于我们</a></li>
+                    <li><a href="news.html">新闻资讯</a></li>
+                    <li><a href="case.html">成功案例</a></li>
+                    <li><a href="contack.html">联系我们</a></li>
+                </ul>
+                <div class="search visible-lg visible-md">
+                	<!--280-->
+                	<form action="" method="get">
+                		<input name="q" type="text" class="inputxt" placeholder="请输入关键字">
+                		<input name="submitted" type="submit" value=" " class="inputbtn">
+                	</form>
+                </div>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </nav>
+	<!-- nav end -->
+	<!-- banner 开始 -->
+	<div id="myCarousel" class="carousel slide">
+		<!-- 轮播（Carousel）指标 -->
+		<ol class="carousel-indicators">
+			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+			<li data-target="#myCarousel" data-slide-to="1"></li>
+			<li data-target="#myCarousel" data-slide-to="2"></li>
+		</ol>   
+		<!-- 轮播（Carousel）项目 -->
+		<div class="carousel-inner">
+			<div class="item active">
+				<img src="images/banner01.jpg" alt="First slide">
+			</div>
+			<div class="item">
+				<img src="images/banner01.jpg" alt="Second slide">
+			</div>
+			<div class="item">
+				<img src="images/banner01.jpg" alt="Third slide">
+			</div>
+		</div>
+		<!-- 轮播（Carousel）导航 -->
+		<a class="carousel-control left" href="#myCarousel" 
+		data-slide="prev">&lsaquo;</a>
+		<a class="carousel-control right" href="#myCarousel" 
+		data-slide="next">&rsaquo;</a>
+	</div>
+	<!-- baozheng 开始 -->
+	<div class="row">
+		<div class="bao w80">
+			<div class="col-md-3 col-sm-3 col-xs-6 col-lg-3">
+				<div class="front-page-product-set-image-container">
+					<img class="img-responsive" src="images/bao01.png">
+					<h6 class="redf text-center">第三方机构担保</h6>
+					<p>当出现借款逾期时由担保机构先行垫付</p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-3 col-xs-6 col-lg-3">
+				<img class="img-responsive" src="images/bao02.png">
+				<h6 class="redf text-center">足额抵押物保障</h6>
+				<p>严格审核借款人或借款企业的清偿能力</p>
+			</div>
+			<div class="col-md-3 col-sm-3 col-xs-6 col-lg-3">
+				<div class="front-page-product-set-image-container">
+					<img class="img-responsive" src="images/bao03.png">
+					<h6 class="redf text-center">风险拨备金银行监管</h6>
+					<p>资金直接流向借款人平台不归集资金</p>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-3 col-xs-6 col-lg-3">
+				<div class="front-page-product-set-image-container">
+					<img class="img-responsive" src="images/bao04.png">
+					<h6 class="redf text-center">阳光保险全程承保</h6>
+					<p>阳光保险签订协议全程保障投资人的账户安全</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- case 开始 -->
+	<div class="row bggrey">
+		<div class="container">
+			<div class="w90 text-center">
+				<h2>成功案例</h2>
+				<p>点财富是一个金融类的电子商务平台</p>
+				<div class="col-md-6 col-sm-12 col-xs-12 col-lg-6">
+					<div class="bgwhite clearfix casepro">
+						<div class="caseprof pull-left">
+							<h6>专注专心</h6>
+							<p>Public Bulidings</p>
+							<img src="images/casejian.png" alt="" class="hidden-xs">
+						</div>
+						<div class="pull-right caseimg">
+							<img class="img-responsive" src="images/case01.jpg" >
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-12 col-xs-12 col-lg-6">
+					<div class="bgwhite clearfix casepro">
+						<div class="caseprof pull-left">
+							<h6>现金金融</h6>
+							<p>Public Bulidings</p>
+							<img src="images/casejian.png" alt="" class="hidden-xs">
+						</div>
+						<div class="pull-right caseimg">
+							<img class="img-responsive" src="images/case02.jpg" >
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-12 col-xs-12 col-lg-6">
+					<div class="bgwhite clearfix casepro">
+						<div class="caseprof pull-left">
+							<h6>外汇投资</h6>
+							<p>Public Bulidings</p>
+							<img src="images/casejian.png" alt="" class="hidden-xs">
+						</div>
+						<div class="pull-right caseimg">
+							<img class="img-responsive" src="images/case03.jpg">
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-sm-12 col-xs-12 col-lg-6">
+					<div class="bgwhite clearfix casepro">
+						<div class="caseprof pull-left">
+							<h6>股票投资</h6>
+							<p>Public Bulidings</p>
+							<img src="images/casejian.png" alt="" class="hidden-xs">
+						</div>
+						<div class="pull-right caseimg">
+							<img class="img-responsive" src="images/case04.jpg" >
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- news 开始 -->
+	<div class="row">
+		<div class="container">
+			<div class="w90 newsl clearfix">
+				<h2>新闻资讯</h2>
+				<p>点财富是一个金融类的电子商务平台</p>
+				<div class="col-md-4 col-sm-12 col-xs-12 col-lg-4">
+					<h3 class="text-left"><a href="#">企业公告</a><a href="#" class="pull-right more text-uppercase">more+</a></h3>
+					<ul class="text-left">
+						<li>近期一向不平静的互联网金融行业再起波澜</li>
+						<li>12月1日，第二届中国信贷精英年会在京举行</li>
+						<li>建安金融CEO曹新杰受邀参加，还有各互联网金融的重量级嘉宾同行</li>
+						<li>何为资产端?资产端就是资金的需求方、融资方</li>
+						<li>普惠金融”是联合国和世界银行大力推行的理念</li>
+					</ul>
+				</div>
+				<div class="col-md-4 col-sm-12 col-xs-12 col-lg-4">
+					<h3 class="text-left"><a href="#">企业公告</a><a href="#" class="pull-right more text-uppercase">more+</a></h3>
+					<ul class="text-left">
+						<li>近期一向不平静的互联网金融行业再起波澜</li>
+						<li>12月1日，第二届中国信贷精英年会在京举行</li>
+						<li>建安金融CEO曹新杰受邀参加，还有各互联网金融的重量级嘉宾同行</li>
+						<li>何为资产端?资产端就是资金的需求方、融资方</li>
+						<li>普惠金融”是联合国和世界银行大力推行的理念</li>
+					</ul>
+				</div>
+				<div class="col-md-4 col-sm-12 col-xs-12 col-lg-4">
+					<h3 class="text-left"><a href="#">企业公告</a><a href="#" class="pull-right more text-uppercase">more+</a></h3>
+					<ul class="text-left">
+						<li>近期一向不平静的互联网金融行业再起波澜</li>
+						<li>12月1日，第二届中国信贷精英年会在京举行</li>
+						<li>建安金融CEO曹新杰受邀参加，还有各互联网金融的重量级嘉宾同行</li>
+						<li>何为资产端?资产端就是资金的需求方、融资方</li>
+						<li>普惠金融”是联合国和世界银行大力推行的理念</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- footer 开始 -->
+	<footer class="bggrey hidden-xs">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-4 col-sm-6 pt50"><img src="images/footertel.png" alt="" class="img-responsive"></div>
+				<div class="col-lg-6 col-md-4 col-sm-6 pt50">
+					<ul class="list-unstyled">
+						<li>2010-2016  版权所有 ©  团贷网  皖ICP备12043601号-1</li>
+						<li>地址：安徽省南城区鸿福路102号A汇成大厦</li>
+						<li>安徽团贷网互联网科技服务有限公司</li>
+					</ul>
+				</div>
+				<div class="col-lg-3 col-md-4 col-sm-6 pt50">
+					<img src="images/wei01.jpg" alt=""><img src="images/wei02.jpg" alt="">
+				</div>
+			</div>
+		</div>
+	</footer>
+	<footer class="bggrey2 visible-xs">
+		<p class="text-center">2010-2016  版权所有 ©  点财富网  皖ICP备12043601号-1</p>
+	</footer>
+	<!-- footer end -->
+</body>
+</html>
