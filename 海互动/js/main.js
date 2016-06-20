@@ -31,8 +31,8 @@ jQuery(function($){
 	slide_links				:	'blank',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
 	slides 					:  	[			// Slideshow Images
 										{image : 'demo/bg/1.jpg'/*tpa=http://www.seakong.cn/js/demo/bg/1.jpg*/},
-										{image : 'demo/bg/2.jpg'/*tpa=http://www.seakong.cn/js/demo/bg/2.jpg*/},
-										{image : 'demo/bg/3.jpg'/*tpa=http://www.seakong.cn/js/demo/bg/3.jpg*/}
+										{image : 'demo/bg/2.png'/*tpa=http://www.seakong.cn/js/demo/bg/2.jpg*/},
+										{image : 'demo/bg/3.png'/*tpa=http://www.seakong.cn/js/demo/bg/3.jpg*/}
 	]
 	});
 });
