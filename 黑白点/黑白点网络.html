@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<!-- saved from url=(0026)http://www.heibaidian.com/ -->
+<html lang="ch"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">[uib-typeahead-popup].dropdown-menu{display:block;}</style><style type="text/css">.uib-time input{width:50px;}</style><style type="text/css">[uib-tooltip-popup].tooltip.top-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.top-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-left > .tooltip-arrow,[uib-tooltip-popup].tooltip.bottom-right > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.left-bottom > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-top > .tooltip-arrow,[uib-tooltip-popup].tooltip.right-bottom > .tooltip-arrow,[uib-popover-popup].popover.top-left > .arrow,[uib-popover-popup].popover.top-right > .arrow,[uib-popover-popup].popover.bottom-left > .arrow,[uib-popover-popup].popover.bottom-right > .arrow,[uib-popover-popup].popover.left-top > .arrow,[uib-popover-popup].popover.left-bottom > .arrow,[uib-popover-popup].popover.right-top > .arrow,[uib-popover-popup].popover.right-bottom > .arrow{top:auto;bottom:auto;left:auto;right:auto;margin:0;}[uib-popover-popup].popover,[uib-popover-template-popup].popover{display:block !important;}</style><style type="text/css">.uib-datepicker .uib-title{width:100%;}.uib-day button,.uib-month button,.uib-year button{min-width:100%;}.uib-datepicker-popup.dropdown-menu{display:block;float:none;margin:0;}.uib-button-bar{padding:10px 9px 2px;}.uib-left,.uib-right{width:100%}</style><style type="text/css">.uib-position-measure{display:block !important;visibility:hidden !important;position:absolute !important;top:-9999px !important;left:-9999px !important;}.uib-position-scrollbar-measure{position:absolute;top:-9999px;width:50px;height:50px;overflow:scroll;}</style><style type="text/css">.ng-animate.item:not(.left):not(.right){-webkit-transition:0s ease-in-out left;transition:0s ease-in-out left}</style><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+  
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+  <!--<base href="/">--><base href=".">
+  <title page-title="">旅烨集团</title>
+  <meta name="keywords" content="旅烨集团,旅烨网络,旅烨网路公司,上海旅烨">
+  <meta name="description" content="旅烨集团,旅烨网络,旅烨网路公司,上海旅烨——互联网解决方案提供商 | 为你持续性交付产品">
+  <meta name="fragment" content="!">
+
+  <!-- Fav Icon -->
+  <link href="http://www.heibaidian.com/modules/core/client/img/brand/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+  <!-- Application CSS Files -->
+  <link rel="stylesheet" href="./黑白点网络_files/bootstrap.css"><link rel="stylesheet" href="./黑白点网络_files/bootstrap-theme.css"><link rel="stylesheet" href="./黑白点网络_files/textAngular.css"><link rel="stylesheet" href="./黑白点网络_files/font-awesome.css"><link rel="stylesheet" href="./黑白点网络_files/aboutus.css"><link rel="stylesheet" href="./黑白点网络_files/chat.css"><link rel="stylesheet" href="./黑白点网络_files/core.css"><link rel="stylesheet" href="./黑白点网络_files/solutions.css"><link rel="stylesheet" href="./黑白点网络_files/users.css">
+</head>
+
+<body class="">
+  <!-- ngInclude: '/modules/core/client/views/header.client.view.html' --><header ng-include="&#39;/modules/core/client/views/header.client.view.html&#39;" class="warp ng-scope"><div ng-controller="HeaderController" class="ng-scope">
+  <div class="warpbg" ng-show="$state.is(&#39;home&#39;)">
+    <div class="header navbar-hide" navbar="">
+      <div class="container">
+        <div class="row">
+            <div class="navbar-header">
+              <button class="navbar-toggle" type="button" ng-click="toggleCollapsibleMenu()">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="http://www.heibaidian.com/">
+                <span><img src="./黑白点网络_files/logo.png" class="logo" style="background-size:cover;height: 40px;width:auto "></span>&nbsp;&nbsp;<span class="logofont"><strong></strong></span>
+              </a>
+            </div>
+            <nav class="navbar-collapse title collapse" uib-collapse="!isCollapsed" role="navigation" aria-expanded="false" aria-hidden="true" style="height: 0px;">
+              <!-- ngIf: menu.shouldRender(authentication.user); --><ul class="nav navbar-nav navbar-right ng-scope" ng-if="menu.shouldRender(authentication.user);">
+                <!-- ngRepeat: item in menu.items | orderBy: 'position' --><!-- ngIf: item.shouldRender(authentication.user); --><li ng-repeat="item in menu.items | orderBy: &#39;position&#39;" ng-if="item.shouldRender(authentication.user);" ng-switch="item.type" ng-class="{ active: $state.includes(item.state), dropdown: item.type === &#39;dropdown&#39; }" class="" uib-dropdown="item.type === &#39;dropdown&#39;">
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchDefault:  --><a  >解决方案</a><!-- end ngSwitchWhen:  -->
+                </li><!-- end ngIf: item.shouldRender(authentication.user); --><!-- end ngRepeat: item in menu.items | orderBy: 'position' --><!-- ngIf: item.shouldRender(authentication.user); --><li ng-repeat="item in menu.items | orderBy: &#39;position&#39;" ng-if="item.shouldRender(authentication.user);" ng-switch="item.type" ng-class="{ active: $state.includes(item.state), dropdown: item.type === &#39;dropdown&#39; }" class="" uib-dropdown="item.type === &#39;dropdown&#39;">
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchDefault:  --><a >金牌服务</a><!-- end ngSwitchWhen:  -->
+                </li><!-- end ngIf: item.shouldRender(authentication.user); --><!-- end ngRepeat: item in menu.items | orderBy: 'position' --><!-- ngIf: item.shouldRender(authentication.user); --><li ng-repeat="item in menu.items | orderBy: &#39;position&#39;" ng-if="item.shouldRender(authentication.user);" ng-switch="item.type" ng-class="{ active: $state.includes(item.state), dropdown: item.type === &#39;dropdown&#39; }" class="" uib-dropdown="item.type === &#39;dropdown&#39;">
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchDefault:  --><a >帮助中心</a><!-- end ngSwitchWhen:  -->
+                </li><!-- end ngIf: item.shouldRender(authentication.user); --><!-- end ngRepeat: item in menu.items | orderBy: 'position' --><!-- ngIf: item.shouldRender(authentication.user); --><li ng-repeat="item in menu.items | orderBy: &#39;position&#39;" ng-if="item.shouldRender(authentication.user);" ng-switch="item.type" ng-class="{ active: $state.includes(item.state), dropdown: item.type === &#39;dropdown&#39; }" class="" uib-dropdown="item.type === &#39;dropdown&#39;">
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchDefault:  --><a >关于我们</a><!-- end ngSwitchWhen:  -->
+                </li><!-- end ngIf: item.shouldRender(authentication.user); --><!-- end ngRepeat: item in menu.items | orderBy: 'position' --><!-- ngIf: item.shouldRender(authentication.user); --><!-- end ngRepeat: item in menu.items | orderBy: 'position' -->
+                <li ng-show="authentication.user" class="ng-hide">
+                  <a ui-sref="settings.product" class="navbar-left" href="http://www.heibaidian.com/settings/product">后台管理</a>
+                </li>
+                <li ng-show="authentication.user" class="ng-hide">
+                  <a href="http://www.heibaidian.com/api/auth/signout" target="_self" class="navbar-left">退出</a>
+                </li>
+              </ul><!-- end ngIf: menu.shouldRender(authentication.user); -->
+            </nav>
+        </div>
+      </div>
+    </div>
+    
+    <div class="container">
+      <div class="row">
+        <div class="header-mid">
+          <div class="title">
+            <p>UI Design And Web Development</p>
+            <strong>专注企业级网站应用开发</strong>
+          </div>
+          <br>
+          <h4 class="smtitle">帮助企业打造赚钱机器</h4><br><br>
+          <div class="buttonDiv ng-hide" ng-show="authentication.user">
+            <a ui-sref="settings.product" href="http://www.heibaidian.com/settings/product"><button class="button-sign button-signout">管理后台</button></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="warpbg warpbgmin ng-hide" ng-show="!$state.is(&#39;home&#39;)">
+    <div class="header navbar-hide" navbar="">
+      <div class="container">
+        <div class="row">
+            <div class="navbar-header">
+              <button class="navbar-toggle" type="button" ng-click="toggleCollapsibleMenu()">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="http://www.heibaidian.com/">
+                <span><img src="./黑白点网络_files/logo.png" class="logo"></span>&nbsp;&nbsp;<span class="logofont"><strong></strong></span>
+              </a>
+            </div>
+            <nav class="navbar-collapse title collapse" uib-collapse="!isCollapsed" role="navigation" aria-expanded="false" aria-hidden="true" style="height: 0px;">
+              <!-- ngIf: menu.shouldRender(authentication.user); --><ul class="nav navbar-nav navbar-right ng-scope" ng-if="menu.shouldRender(authentication.user);">
+                <!-- ngRepeat: item in menu.items | orderBy: 'position' --><!-- ngIf: item.shouldRender(authentication.user); --><li ng-repeat="item in menu.items | orderBy: &#39;position&#39;" ng-if="item.shouldRender(authentication.user);" ng-switch="item.type" ng-class="{ active: $state.includes(item.state), dropdown: item.type === &#39;dropdown&#39; }" class="" uib-dropdown="item.type === &#39;dropdown&#39;">
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchDefault:  --><a href="#">解决方案</a><!-- end ngSwitchWhen:  -->
+                </li><!-- end ngIf: item.shouldRender(authentication.user); --><!-- end ngRepeat: item in menu.items | orderBy: 'position' --><!-- ngIf: item.shouldRender(authentication.user); --><li ng-repeat="item in menu.items | orderBy: &#39;position&#39;" ng-if="item.shouldRender(authentication.user);" ng-switch="item.type" ng-class="{ active: $state.includes(item.state), dropdown: item.type === &#39;dropdown&#39; }" class="" uib-dropdown="item.type === &#39;dropdown&#39;">
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchDefault:  --><a  href="#">金牌服务</a><!-- end ngSwitchWhen:  -->
+                </li><!-- end ngIf: item.shouldRender(authentication.user); --><!-- end ngRepeat: item in menu.items | orderBy: 'position' --><!-- ngIf: item.shouldRender(authentication.user); --><li ng-repeat="item in menu.items | orderBy: &#39;position&#39;" ng-if="item.shouldRender(authentication.user);" ng-switch="item.type" ng-class="{ active: $state.includes(item.state), dropdown: item.type === &#39;dropdown&#39; }" class="" uib-dropdown="item.type === &#39;dropdown&#39;">
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchDefault:  --><a  href="#">帮助中心</a><!-- end ngSwitchWhen:  -->
+                </li><!-- end ngIf: item.shouldRender(authentication.user); --><!-- end ngRepeat: item in menu.items | orderBy: 'position' --><!-- ngIf: item.shouldRender(authentication.user); --><li ng-repeat="item in menu.items | orderBy: &#39;position&#39;" ng-if="item.shouldRender(authentication.user);" ng-switch="item.type" ng-class="{ active: $state.includes(item.state), dropdown: item.type === &#39;dropdown&#39; }" class="" uib-dropdown="item.type === &#39;dropdown&#39;">
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchWhen: dropdown -->
+                  <!-- ngSwitchDefault:  --><a ng-switch-default="" ui-sref="aboutus" ng-bind="item.title" class="navbar-left ng-binding ng-scope" href="#">关于我们</a><!-- end ngSwitchWhen:  -->
+                </li><!-- end ngIf: item.shouldRender(authentication.user); --><!-- end ngRepeat: item in menu.items | orderBy: 'position' --><!-- ngIf: item.shouldRender(authentication.user); --><!-- end ngRepeat: item in menu.items | orderBy: 'position' -->
+                <li ng-show="authentication.user" class="ng-hide">
+                  <a ui-sref="settings.product" class="navbar-left" href="#">后台管理</a>
+                </li>
+                <li ng-show="authentication.user" class="ng-hide">
+                  <a href="#" class="navbar-left" target="_self">退出</a>
+                </li>
+              </ul><!-- end ngIf: menu.shouldRender(authentication.user); -->
+            </nav>
+        </div>
+      </div>
+    </div>
+    
+    <div class="container">
+      <div class="row">
+        <div class="header-mid">
+          <div class="title">
+            <p>UI Design And Web Development</p>
+            <strong>专注企业级网站应用开发</strong>
+          </div>
+          <br>
+          <h4 class="smtitle">帮助企业打造赚钱机器</h4><br><br>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</div></header>
+  <section>
+      
+  <!-- uiView:  --><section ui-view="" class="ng-scope"><div ng-controller="HomeController" class="ng-scope">
+<div class="container">
+  <div class="home">
+    <h3>如何保证项目质量</h3>
+    <p>每个人做自己喜欢擅长的事情，注重项目实施细节</p>
+  </div>
+  <div class="row">
+    <div class="col-md-6 col-sm-6 col-xs-12">
+      <h3 class="cor corleft">
+        <span>UI</span>
+      </h3>
+      <ul class="desc descleft">
+        <li>与客户沟通，构思出草图</li>
+        <li>PhotoShop制作效果图</li>
+        <li>设计Html5+CSS3响应式页面</li>
+      </ul>
+    </div>
+    <div class="col-md-6 col-sm-6 col-xs-12">
+      <h3 class="cor corright">
+        <span>WEB</span>
+      </h3>
+      <ul class="desc descright">
+        <li>结合UI和需求设计模块</li>
+        <li>根据客户性能要求，选择合适的框架编写程序</li>
+        <li>与UI整合与测试、持续性交付</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row text-center">
+    <h5 class="topbox"><span class="tip">我们提供阿里云服务器</span><br>
+    <i class="tipbig">98%</i>&nbsp;的客户选择托管项目，项目售后保障1年，免费维护及部署
+    </h5>
+  </div>
+</div>
+
+<div class="warp">
+  <div class="ptbg">
+    <div class="container">
+      <h3>优质托管项目</h3>
+      <ul class="list-inline">
+        <li class="col-md-2 col-sm-4 col-xs-4"><img src="./黑白点网络_files/work1.jpg"></li>
+        <li class="col-md-2 col-sm-4 col-xs-4"><img src="./黑白点网络_files/work2.jpg"></li>
+        <li class="col-md-2 col-sm-4 col-xs-4"><img src="./黑白点网络_files/work3.jpg"></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<section class="container">
+  <div class="home">
+    <h3>行业解决方案</h3>
+    <p>我们追求稳定、优质的解决方案，项目长期迭代</p>
+  </div>
+  <div class="row plan">
+    <div class="col-md-3 col-sm-6 col-xs-6">
+      <a ui-sref="solutions.type({type:&#39;微信公众号&#39;})" href="http://www.heibaidian.com/solutions/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/list">
+      <h3 class="cor corimg">
+        <span><img src="./黑白点网络_files/wx.png"></span>
+      </h3>
+      <p class="plantitle">微信公众号</p>
+      <p>企业营销利器</p></a>
+    </div>
+    <div class="col-md-3 col-sm-6 col-xs-6">
+      <a ui-sref="solutions.type({type:&#39;H5应用&#39;})" href="http://www.heibaidian.com/solutions/H5%E5%BA%94%E7%94%A8/list">
+      <h3 class="cor corimg">
+        <span><img src="./黑白点网络_files/h5.png"></span>
+      </h3>
+      <p class="plantitle">H5应用</p>
+      <p>堪比原生APP，价格更实惠</p></a>
+    </div>
+    <div class="col-md-3 col-sm-6 col-xs-6">
+      <a ui-sref="solutions.type({type:&#39;企业B/S系统&#39;})" href="http://www.heibaidian.com/solutions/%E4%BC%81%E4%B8%9AB~2FS%E7%B3%BB%E7%BB%9F/list">
+      <h3 class="cor corimg">
+        <span><img src="./黑白点网络_files/web.png"></span>
+      </h3>
+      <p class="plantitle">企业B/S系统</p>
+      <p>助力企业办公自动化， 高效管理客户关系及业 务流程</p></a>
+    </div>
+    <div class="col-md-3 col-sm-6 col-xs-6">
+      <a ui-sref="solutions.type({type:&#39;响应式网站&#39;})" href="http://www.heibaidian.com/solutions/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BD%91%E7%AB%99/list">
+      <h3 class="cor corimg">
+        <span><img src="./黑白点网络_files/www.png"></span>
+      </h3>
+      <p class="plantitle">响应式网站</p>
+      <p>网站对手机，平板，电脑 响应式布局</p></a>
+    </div>
+  </div>
+</section>
+
+<section class="container">
+  <div class="home btndiv">
+    <div class="row">
+        <!-- ngRepeat: solution in solutions --><!-- ngIf: $index<2 --><div class="col-md-6 col-sm-6 col-xs-6 ng-scope" ng-repeat="solution in solutions" ng-if="$index&lt;2">
+          <a data-ui-sref="solutions.view({ solutionId: solution._id })" href="#"><img ng-src="./modules/articles/client/img/uploads/59a4c50b18df8f1790507a14d14e25bb" class="topline" src="./黑白点网络_files/59a4c50b18df8f1790507a14d14e25bb"></a>
+        </div><!-- end ngIf: $index<2 --><!-- end ngRepeat: solution in solutions --><!-- ngIf: $index<2 --><div class="col-md-6 col-sm-6 col-xs-6 ng-scope" ng-repeat="solution in solutions" ng-if="$index&lt;2">
+          <a data-ui-sref="solutions.view({ solutionId: solution._id })" href="http://www.heibaidian.com/solutions/572d832554fa1d0e00f0a000"><img ng-src="./modules/articles/client/img/uploads/2db845a747ac1b3e3f3e750a47904204" class="topline" src="./黑白点网络_files/2db845a747ac1b3e3f3e750a47904204"></a>
+        </div><!-- end ngIf: $index<2 --><!-- end ngRepeat: solution in solutions --><!-- ngIf: $index<2 --><!-- end ngRepeat: solution in solutions --><!-- ngIf: $index<2 --><!-- end ngRepeat: solution in solutions --><!-- ngIf: $index<2 --><!-- end ngRepeat: solution in solutions -->
+    </div>
+    <div class="row btndiv">
+      <a ui-sref="solutions.list" class="moreBtn" href="#">发现更多</a>
+    </div>
+  </div>
+</section>
+
+<div class="warp">
+  <div class="ptbg2">
+    <div class="container">
+      <h3>客户反馈</h3>
+      <p>以下数据来源于项目真实评价</p>
+      <div class="row">
+        <div class="col-md-3 col-sm-6 col-xs-6">
+          <h3 class="cor corimg pjbg">
+            <span><img src="./黑白点网络_files/default.png"></span>
+          </h3>
+          <h4><strong>田先生</strong></h4>
+          <p>装修公司运营</p>
+          <div class="info">
+            <p>项目一直托管在他们那里。有次，项目出现了个问题，联系他们帮忙解决，当天就解决了，售后有保障，以后有机会肯定再次合作。</p>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6">
+          <h3 class="cor corimg pjbg">
+            <span><img src="./黑白点网络_files/default.png"></span>
+          </h3>
+          <h4><strong>王总</strong></h4>
+          <p>广告公司副总</p>
+          <div class="info">
+            <p>以前有过几次合作，比较愉快。项目做得不错，最主要是比较有责任感，有几次要的比较急，他们加班加点为我们赶工。祝你们生意越来越好！</p>
+          </div>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6">
+          <h3 class="cor corimg pjbg">
+            <span><img src="./黑白点网络_files/default.png"></span>
+          </h3>
+          <h4><strong>刘先生</strong></h4>
+          <p>饭店老板</p>
+          <div class="info">
+            <p>餐馆生意来源都是靠外卖，我就想做一个基于位置的微信订餐系统。经朋友介绍，觉得价格也还合适。现在系统上线，订单比以前多了2-3倍！</p>
+          </div>
+        </div>       
+        <div class="col-md-3 col-sm-6 col-xs-6">
+          <h3 class="cor corimg pjbg">
+            <span><img src="./黑白点网络_files/default.png"></span>
+          </h3>
+          <h4><strong>钟先生</strong></h4>
+          <p>网站站长</p>
+          <div class="info">
+            <p>我算是老客户了，经常找他们拿阿里云服务器，他们这边价格便宜、还帮忙部署，做301，开个子目录，重写URL等，响应速度快、性能优良，百度优化效果好</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section class="container">
+  <div class="home">
+    <h3>在线咨询</h3>
+    <p>专业人员7*12小时在线，回答您的疑问</p>
+    <ul class="contact list-inline">
+        <li><i class="fa fa-envelope-o"></i> <a href="mailto:admin@heibaidian.com">点点</a></li>
+        <li><i class="fa fa-qq"></i> <a href="http://wpa.qq.com/msgrd?v=3&amp;uin=313516963&amp;site=qq&amp;menu=yes" target="_blank">小易</a></li>
+        <li><i class="fa fa-weibo"></i> <a href="http://weibo.com/u/5895044673" target="_blank">@黑白点网络</a></li>
+    </ul>
+  </div>
+</section>
+
+<section class="container footerpb">
+  <form name="form.emailForm" ng-submit="sendEmail(form.emailForm.$valid)" novalidate="" class="ng-pristine ng-invalid ng-invalid-required ng-valid-email">
+    <div class="col-md-8 col-sm-12 col-xs-12 col-md-offset-2 col-sm-offset-0 xs-offset-0">
+      <div class="col-md-6 col-sm-6 col-xs-12 form-group" show-errors="">
+          <label class="sr-only" for="name">姓名</label>
+          <input type="text" class="form-control form-control-gray ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" ng-model="email.name" id="name" name="name" placeholder="姓名" required="">
+          <div ng-messages="form.emailForm.name.$error" role="alert" class="ng-active">
+            <!-- ngMessage: required --><p class="help-block error-text ng-scope" ng-message="required">请填写姓名</p>
+          </div>
+      </div>                    
+      <div class="col-md-6 col-sm-6 col-xs-12 form-group" show-errors="">
+          <label class="sr-only" for="email">邮箱地址</label>
+          <input type="email" class="form-control form-control-gray ng-pristine ng-untouched ng-empty ng-valid-email ng-invalid ng-invalid-required" ng-model="email.email" id="email" name="email" placeholder="邮箱地址" required="">
+          <div ng-messages="form.emailForm.email.$error" role="alert" class="ng-active">
+            <!-- ngMessage: required --><p class="help-block error-text ng-scope" ng-message="required">请填写邮箱地址</p>
+            <!-- ngMessage: email -->
+          </div>
+      </div>
+      <div class="col-md-12 col-sm-12 col-xs-12 form-group" show-errors="">
+          <label class="sr-only" for="message">咨询信息</label>
+          <textarea class="form-control form-control-gray ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" id="message" ng-model="email.message" name="message" placeholder="咨询信息" rows="10" required=""></textarea>
+          <div ng-messages="form.emailForm.message.$error" role="alert" class="ng-active">
+            <!-- ngMessage: required --><p class="help-block error-text ng-scope" ng-message="required">请填写咨询信息</p>
+          </div>
+      </div>
+       <div class="col-md-12 col-sm-12 col-xs-12 form-group">
+          <button type="submit" class="btn btn-submit">发送</button>
+      </div>
+      <div ng-show="error" class="text-center text-danger ng-hide">
+        <strong ng-bind="error" class="ng-binding"></strong>
+      </div>
+      <div ng-show="success" class="text-center text-success ng-hide">
+        <strong ng-bind="success" class="ng-binding"></strong>
+      </div>
+    </div>
+  </form>
+</section>
+</div>
+</section>
+
+  </section>
+  
+  <!-- ngInclude: '/modules/core/client/views/footer.client.view.html' --><footer ng-include="&#39;/modules/core/client/views/footer.client.view.html&#39;" class="ng-scope"><div class="warp ng-scope">
+  <div class="ptbg2">
+    <div class="container">
+      <div class="row footer">
+        <div class="col-md-3 col-sm-6 col-xs-6">
+          <h4>金牌服务</h4>
+          <ul>
+            <li><a ui-sref="services.view({ serviceId: &#39;5720142c9527a58876b9a3a1&#39; })" href="http://www.heibaidian.com/services/5720142c9527a58876b9a3a1">项目评估</a></li>
+            <li><a ui-sref="services.view({ serviceId: &#39;572016189527a58876b9a3a2&#39; })" href="http://www.heibaidian.com/services/572016189527a58876b9a3a2">阿里云</a></li>
+            <li><a ui-sref="services.view({ serviceId: &#39;572016489527a58876b9a3a3&#39; })" href="http://www.heibaidian.com/services/572016489527a58876b9a3a3">Linux运维</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6">
+          <h4>解决方案</h4>
+          <ul>
+            <li><a ui-sref="solutions.type({type:&#39;微信公众号&#39;})" href="http://www.heibaidian.com/solutions/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7/list">微信公众号</a></li>
+            <li><a ui-sref="solutions.type({type:&#39;H5应用&#39;})" href="http://www.heibaidian.com/solutions/H5%E5%BA%94%E7%94%A8/list">H5应用</a></li>
+            <li><a ui-sref="solutions.type({type:&#39;企业B/S系统&#39;})" href="http://www.heibaidian.com/solutions/%E4%BC%81%E4%B8%9AB~2FS%E7%B3%BB%E7%BB%9F/list">企业B/S系统</a></li>
+            <li><a ui-sref="solutions.type({type:&#39;响应式网站&#39;})" href="http://www.heibaidian.com/solutions/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BD%91%E7%AB%99/list">响应式网站</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6">
+          <h4>帮助中心</h4>
+          <ul>
+            <li><a ui-sref="articles.view({ articleId: &#39;57228b6fb71dc0180c951e0e&#39; })" href="http://www.heibaidian.com/articles/57228b6fb71dc0180c951e0e">合同申请</a></li>
+            <li><a ui-sref="articles.view({ articleId: &#39;5722806bb71dc0180c951e0d&#39; })" href="http://www.heibaidian.com/articles/5722806bb71dc0180c951e0d">支付问题</a></li>
+            <li><a ui-sref="articles.view({ articleId: &#39;57226741b71dc0180c951e0c&#39; })" href="http://www.heibaidian.com/articles/57226741b71dc0180c951e0c">阿里云相关问题</a></li>
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-6">
+          <h4>官方微信</h4>
+          <ul>
+            <li><img src="./黑白点网络_files/qrcode.png" class="qrcode"></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<section class="warp ng-scope">
+	<div class="copyright">
+		<p>版权所有 © 2011-2016 上海旅烨网络科技有限公司<br></p>
+	</div>
+</section></footer><input id="textAngular-editableFix-010203040506070809" class="ta-hidden-input" aria-hidden="true" unselectable="on" tabindex="-1"></body></html>
