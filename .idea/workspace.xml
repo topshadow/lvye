@@ -2,38 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67e93cef-e5a9-40f8-98f5-691702bdf61e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/bootstrap-theme-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/google.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/moodle-theme-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/plentific.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/potato.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/queen-mary-university.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/tom-riley.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/topgear.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/uea-university.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/xiaoying-riley.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/海互动/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/analytics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/css(1)" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/css(2)" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/jquery-migrate-1.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/jquery.easing.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/jquery.placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/jquery.scrollTo.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/retina.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/demo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/demo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/header/1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/header/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/header/3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/header/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/header/man.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/demo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/demo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/man.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/河媒/3rd Wave Media_files/logo.png" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/海互动/index.html" afterPath="$PROJECT_DIR$/海互动/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/黑白点/黑白点网络.html" afterPath="$PROJECT_DIR$/黑白点/黑白点网络.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/文案.md" afterPath="$PROJECT_DIR$/文案.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/河媒/3rd Wave Media.html" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media.html" />
     </list>
     <ignored path="lvye.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,15 +40,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="说明.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/黑白点/说明.md">
+      <file leaf-file-name="文案.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/文案.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="-101">
+                <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="35" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -70,8 +56,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络_files/font-awesome.css">
+      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/logo.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moodle-theme-1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/moodle-theme-1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -80,74 +80,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wx.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络_files/wx.png">
+      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public-image/logo.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="work3.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络_files/work3.jpg">
+      <file leaf-file-name="qrcode.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public-image/qrcode.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="work2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络_files/work2.jpg">
+      <file leaf-file-name="demo2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public-image/demo2.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="work1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络_files/work1.jpg">
+      <file leaf-file-name="xiaoying-riley.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/xiaoying-riley.png">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="文案.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/文案.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
+      <file leaf-file-name="uea-university.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/uea-university.png">
+          <provider selected="true" editor-type-id="images">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="26" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
         </entry>
       </file>
-      <file leaf-file-name="黑白点网络.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-92">
-              <caret line="314" column="0" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3rd Wave Media.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="3rd Wave Media.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+            <state relative-caret-position="231">
+              <caret line="224" column="49" selection-start-line="224" selection-start-column="49" selection-end-line="224" selection-end-column="49" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络_files/web.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -164,9 +138,9 @@
         <option value="$PROJECT_DIR$/时光网络/漯河时光.html" />
         <option value="$PROJECT_DIR$/时光网络/index.htm" />
         <option value="$PROJECT_DIR$/时光网络/Content/shiguang-v=2KuUzExbd1qVFeys1bM9cZr-yMK4rB8IT5OSDIuRMio1.css" />
-        <option value="$PROJECT_DIR$/文案.md" />
         <option value="$PROJECT_DIR$/海互动/index.html" />
         <option value="$PROJECT_DIR$/黑白点/黑白点网络.html" />
+        <option value="$PROJECT_DIR$/文案.md" />
         <option value="$PROJECT_DIR$/河媒/3rd Wave Media.html" />
       </list>
     </option>
@@ -190,7 +164,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -238,7 +212,71 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="黑白点" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lvye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lvye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="河媒" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lvye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lvye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="河媒" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="3rd Wave Media_files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lvye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lvye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public-image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lvye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lvye" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public-image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="header" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,11 +294,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/河媒/3rd Wave Media_files" />
+      <recent name="$PROJECT_DIR$/public-image/header" />
+      <recent name="$PROJECT_DIR$/public-image" />
       <recent name="$PROJECT_DIR$/河媒" />
       <recent name="$PROJECT_DIR$/海互动/img" />
-      <recent name="E:\workspace\lvye\时光网络\Images\banners" />
-      <recent name="E:\workspace\lvye\时光网络\Images" />
-      <recent name="E:\workspace\lvye\黑白点\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\workspace\lvye\时光网络\Images\banners" />
@@ -364,7 +402,7 @@
       <workItem from="1466444814203" duration="720000" />
       <workItem from="1466445738307" duration="45000" />
       <workItem from="1466475379299" duration="399000" />
-      <workItem from="1466481329457" duration="2906000" />
+      <workItem from="1466481329457" duration="7345000" />
     </task>
     <task id="LOCAL-00001" summary="海互动的logo需要修改,黑白点的界面需要可以切换">
       <created>1466475583669</created>
@@ -373,11 +411,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466475583669</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="河媒体 WaveMedia&#10;">
+      <created>1466484271502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1466484271502</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15336000" />
+    <option name="totallyTimeSpent" value="19775000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -390,11 +435,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="24" width="1319" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24943139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24943139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24219911" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24517088" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789558" sideWeight="0.4940476" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -423,31 +468,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="海互动的logo需要修改,黑白点的界面需要可以切换" />
-    <option name="LAST_COMMIT_MESSAGE" value="海互动的logo需要修改,黑白点的界面需要可以切换" />
+    <MESSAGE value="河媒体 WaveMedia&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="河媒体 WaveMedia&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/时光网络/Solutions.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络 - 金牌服务.html" />
-    <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络.htm" />
-    <entry file="file://$PROJECT_DIR$/黑白点/lib/angular/angular.js" />
-    <entry file="file://$PROJECT_DIR$/黑白点/tpl.html" />
-    <entry file="file://$PROJECT_DIR$/黑白点/index.htm" />
-    <entry file="file://$PROJECT_DIR$/海互动/img/getqrcode.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/海互动/img/getqrcode.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -528,16 +556,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络_files/qrcode.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public-image/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public-image/qrcode.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -705,18 +723,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="314" column="0" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
+        <state relative-caret-position="-45">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media.html">
+    <entry file="file://$PROJECT_DIR$/public-image/demo1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/uea-university.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/moodle-theme-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-image/demo2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-image/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public-image/qrcode.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/xiaoying-riley.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/文案.md">
@@ -725,11 +783,19 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="26" />
+          <first_editor relative-caret-position="-101">
+            <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="35" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="224" column="49" selection-start-line="224" selection-start-column="49" selection-end-line="224" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
