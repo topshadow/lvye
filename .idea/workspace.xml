@@ -2,24 +2,142 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67e93cef-e5a9-40f8-98f5-691702bdf61e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/demo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/demo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/header/1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/header/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/header/3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/header/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/header/man.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/demo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/demo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/man.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/河媒/3rd Wave Media_files/logo.png" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media_files/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/howitwork01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/howitworkdesign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/howitworkguide.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/howitworklanguage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/howitworkpayment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/howitworkproject.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/howitworkteam.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/howitworkzan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/logomark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/pic1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/img/demo1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/img/demo2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/img/header/1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/img/header/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/img/header/3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/img/header/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/img/header/man.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/img/qrcode.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/endtoendmanagement.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/fixedpricing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/instantprice.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/logomark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/moreplatform.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/partner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/pic1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/joinus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/logomark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/pic1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/campus1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/campus2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/campus3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/campus4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/dday1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/dday2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/dday3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/ddayweb1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/ddayweb2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/ddayweb3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/estart1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/estart2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/estart3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/estart4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/estart5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/estartweb1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/estartweb2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/estartweb3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/foooooot1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/foooooot2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/foooooot3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/logomark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/pic1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/solution_app.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/solution_bots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/solution_iot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/solution_vrar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/solution_website.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/solution_wechat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/yoyoxiaomi1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/yoyoxiaomi2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/yoyoxiaomi3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/yoyoxiaomi4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/yoyoxiaomi5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/logomark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/mvp01er01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/mvp01er02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/mvp01er03(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/mvp01er03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/mvp01er04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/mvp01er05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/mvp01er06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/pic1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/stars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/whowearealibaba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/whoweareanetease.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/whowearetencent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/whowearetinghua.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/8c81c420c693f04bba8684dca32a9c96.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/desktop-fiesta-fa6imegsmv0ftj4i.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/desktop-fiesta-fa6imegsmv0ftj4i.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/desktop-fiesta.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/ff0b69d52804f0b21f00f02e6d7645ef.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/jweixin-1.0.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/meiqia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/howuse_files/z_stat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/8c81c420c693f04bba8684dca32a9c96.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/desktop-fiesta-fa6imegsmv0ftj4i.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/desktop-fiesta-fa6imegsmv0ftj4i.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/desktop-fiesta.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/ff0b69d52804f0b21f00f02e6d7645ef.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/jweixin-1.0.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/meiqia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/index_files/z_stat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/8c81c420c693f04bba8684dca32a9c96.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/desktop-fiesta-fa6imegsmv0ftj4i.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/desktop-fiesta-fa6imegsmv0ftj4i.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/desktop-fiesta.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/ff0b69d52804f0b21f00f02e6d7645ef.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/jweixin-1.0.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/meiqia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/join_files/z_stat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/8c81c420c693f04bba8684dca32a9c96.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/desktop-fiesta-fa6imegsmv0ftj4i.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/desktop-fiesta-fa6imegsmv0ftj4i.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/desktop-fiesta.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/ff0b69d52804f0b21f00f02e6d7645ef.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/jweixin-1.0.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/laptop-illustration.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/meiqia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/phone-illustration.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/solution_files/z_stat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/8c81c420c693f04bba8684dca32a9c96.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/core.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/desktop-fiesta-fa6imegsmv0ftj4i.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/desktop-fiesta-fa6imegsmv0ftj4i.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/desktop-fiesta.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/ff0b69d52804f0b21f00f02e6d7645ef.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/jweixin-1.0.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/meiqia.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MVP/we_files/z_stat.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/文案.md" afterPath="$PROJECT_DIR$/文案.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/河媒/3rd Wave Media.html" afterPath="$PROJECT_DIR$/河媒/3rd Wave Media.html" />
     </list>
     <ignored path="lvye.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,8 +165,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-101">
-                <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="35" />
+              <first_editor relative-caret-position="255">
+                <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="40" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -56,22 +174,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/logo.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="we.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVP/we.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="84" column="66" selection-start-line="84" selection-start-column="64" selection-end-line="84" selection-end-column="66" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="moodle-theme-1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/moodle-theme-1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="solution.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVP/solution.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-216">
+              <caret line="461" column="67" selection-start-line="461" selection-start-column="67" selection-end-line="461" selection-end-column="67" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/main.js">
+      <file leaf-file-name="core.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVP/solution_files/core.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -80,47 +208,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logo.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public-image/logo.png">
-          <provider selected="true" editor-type-id="images">
+      <file leaf-file-name="说明.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/黑白点/说明.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qrcode.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public-image/qrcode.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo2.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public-image/demo2.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="xiaoying-riley.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/xiaoying-riley.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="uea-university.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media_files/uea-university.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3rd Wave Media.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media.html">
+      <file leaf-file-name="core.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVP/howuse_files/core.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="224" column="49" selection-start-line="224" selection-start-column="49" selection-end-line="224" selection-end-column="49" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVP/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="黑白点网络.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="join.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MVP/join.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="123" column="48" selection-start-line="123" selection-start-column="48" selection-end-line="123" selection-end-column="48" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="howuse.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MVP/howuse.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="314" column="6" selection-start-line="314" selection-start-column="6" selection-end-line="314" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,8 +295,13 @@
         <option value="$PROJECT_DIR$/时光网络/Content/shiguang-v=2KuUzExbd1qVFeys1bM9cZr-yMK4rB8IT5OSDIuRMio1.css" />
         <option value="$PROJECT_DIR$/海互动/index.html" />
         <option value="$PROJECT_DIR$/黑白点/黑白点网络.html" />
-        <option value="$PROJECT_DIR$/文案.md" />
         <option value="$PROJECT_DIR$/河媒/3rd Wave Media.html" />
+        <option value="$PROJECT_DIR$/MVP/index.html" />
+        <option value="$PROJECT_DIR$/文案.md" />
+        <option value="$PROJECT_DIR$/MVP/we.html" />
+        <option value="$PROJECT_DIR$/MVP/solution.html" />
+        <option value="$PROJECT_DIR$/MVP/howuse.html" />
+        <option value="$PROJECT_DIR$/MVP/join.html" />
       </list>
     </option>
   </component>
@@ -226,38 +386,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="河媒" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lvye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lvye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="河媒" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3rd Wave Media_files" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lvye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lvye" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="public-image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -272,11 +400,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public-image" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="header" />
+              <option name="myItemId" value="MVP" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -294,11 +418,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MVP/img" />
+      <recent name="$PROJECT_DIR$/MVP" />
       <recent name="$PROJECT_DIR$/河媒/3rd Wave Media_files" />
       <recent name="$PROJECT_DIR$/public-image/header" />
       <recent name="$PROJECT_DIR$/public-image" />
-      <recent name="$PROJECT_DIR$/河媒" />
-      <recent name="$PROJECT_DIR$/海互动/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\workspace\lvye\时光网络\Images\banners" />
@@ -308,7 +432,7 @@
       <recent name="E:\workspace\lvye\时光网络\files" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.3rd Wave Media.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lvye/海互动/index.html">
       <method />
     </configuration>
@@ -316,6 +440,9 @@
       <method />
     </configuration>
     <configuration default="false" name="3rd Wave Media.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lvye/河媒/3rd Wave Media.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/lvye/MVP/index.html">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -371,16 +498,18 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.黑白点网络.html" />
       <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.3rd Wave Media.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.3rd Wave Media.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.黑白点网络.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.3rd Wave Media.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.黑白点网络.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -402,7 +531,7 @@
       <workItem from="1466444814203" duration="720000" />
       <workItem from="1466445738307" duration="45000" />
       <workItem from="1466475379299" duration="399000" />
-      <workItem from="1466481329457" duration="7345000" />
+      <workItem from="1466481329457" duration="11011000" />
     </task>
     <task id="LOCAL-00001" summary="海互动的logo需要修改,黑白点的界面需要可以切换">
       <created>1466475583669</created>
@@ -418,11 +547,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466484271502</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="河媒体 WaveMedia 完成&#10;">
+      <created>1466490666064</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1466490666064</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19775000" />
+    <option name="totallyTimeSpent" value="23441000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,7 +575,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24943139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24517088" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1679049" sideWeight="0.50595236" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789558" sideWeight="0.4940476" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -469,46 +605,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="海互动的logo需要修改,黑白点的界面需要可以切换" />
     <MESSAGE value="河媒体 WaveMedia&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="河媒体 WaveMedia&#10;" />
+    <MESSAGE value="河媒体 WaveMedia 完成&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="河媒体 WaveMedia 完成&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/海互动/img/getqrcode.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络_files/aboutus.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/黑白点/img/promo-bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络_files/core.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TellForm/TellForm_files/analytics.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/时光网络/漯河时光.html" />
-    <entry file="file://$PROJECT_DIR$/时光网络/files/bootstrap" />
     <entry file="file://$PROJECT_DIR$/海互动/images/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -656,7 +760,7 @@
         <state relative-caret-position="240">
           <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
           <folding>
-            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#html#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#div#0;n#body#0;n#html#0;n#html#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -707,28 +811,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/黑白点/说明.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public-image/demo1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -777,25 +859,113 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/文案.md">
+    <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-429">
+          <caret line="222" column="38" selection-start-line="222" selection-start-column="38" selection-end-line="222" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVP/howuse_files/core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/黑白点/说明.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-101">
-            <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="35" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/河媒/3rd Wave Media.html">
+    <entry file="file://$PROJECT_DIR$/MVP/solution_files/core.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="224" column="49" selection-start-line="224" selection-start-column="49" selection-end-line="224" selection-end-column="49" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/黑白点/黑白点网络.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVP/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文案.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="255">
+            <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="40" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVP/we.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="84" column="66" selection-start-line="84" selection-start-column="64" selection-end-line="84" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVP/solution.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="461" column="67" selection-start-line="461" selection-start-column="67" selection-end-line="461" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVP/howuse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="314" column="6" selection-start-line="314" selection-start-column="6" selection-end-line="314" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MVP/join.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="123" column="48" selection-start-line="123" selection-start-column="48" selection-end-line="123" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
