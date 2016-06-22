@@ -2,439 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67e93cef-e5a9-40f8-98f5-691702bdf61e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/app.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public-image/postman-hero.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/app_run_button_code.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/browser_api_documenter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/code_generator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/dark-theme-main-view-min.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/light-theme-main-view-min.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/manage_environments.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/runner_results.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/team-library-collections-min.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/tests.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/howitwork01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/howitworkdesign.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/howitworkguide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/howitworklanguage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/howitworkpayment.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/howitworkproject.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/howitworkteam.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/howitworkzan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/logomark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/pic1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/endtoendmanagement.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/fixedpricing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/instantprice.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/logomark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/moreplatform.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/partner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/pic1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/joinus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/logomark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/pic1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/campus1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/campus2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/campus3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/campus4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/dday1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/dday2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/dday3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/ddayweb1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/ddayweb2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/ddayweb3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/estart1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/estart2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/estart3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/estart4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/estart5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/estartweb1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/estartweb2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/estartweb3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/foooooot1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/foooooot2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/foooooot3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/logomark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/pic1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/solution_app.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/solution_bots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/solution_iot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/solution_vrar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/solution_website.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/solution_wechat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/yoyoxiaomi1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/yoyoxiaomi2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/yoyoxiaomi3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/yoyoxiaomi4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/yoyoxiaomi5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/logomark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/mvp01er01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/mvp01er02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/mvp01er03(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/mvp01er03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/mvp01er04.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/mvp01er05.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/mvp01er06.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/pic1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/stars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/whowearealibaba.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/whoweareanetease.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/whowearetencent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/whowearetinghua.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/aboutbg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/aboutbn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/aboutmap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/Bus_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/Bus_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/Bus_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/Bus_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/Bus_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/Bus_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/Bus_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/ano.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/backtop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/qr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/shdl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/ano.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/backtop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/qr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/shdl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/aboutbg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/aboutbn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/aboutmap.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/ano.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/backtop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/qr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/shdl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/img/app.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/img/demo1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/img/demo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/img/lvye-map.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/img/postman-hero.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/WiFi_banner-0.5s-1200.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/WiFi_banner-0.5s.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/ano.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/backtop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/bcgf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/bgpizza.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/bn1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/bn2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/bn3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/bnp1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/bnp2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/bnp3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/coffeebeme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/dfjz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/dks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/dyl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/dytbs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/gl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/hclm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/hjh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/hkl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/hns.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/hsjs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/hty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/hzy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/kfc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/lcyg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/llsty.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/mlct.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/mzdp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/pizzahut.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/qr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/rc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/sdkf.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/shdl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/tls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/wawj.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/wdm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/xcynhg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/xeq.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/xfy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/xmyc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/yctq.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/ycyz.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/zgdx.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/zgtt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/zgyd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/zlmlt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/Bus_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/Bus_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/Bus_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/Bus_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/Bus_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/Bus_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/Bus_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/ano.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/backtop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/qr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/shdl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/013510jpkgs72pqoh7zzfp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/114538wj70ljfxfqrf7j8s.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/115013tykk6pe8pct8ye68.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/115629mlw2mg0fd4o430yp.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/141206nko0toodrqqt7dik.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/141406jzprrjpccczkf999.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/142852lppi0lpi0nptdcyz.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/144017n4nhbhixtullbby7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/145120wl1k1mu0ko5j0511.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/185610o3h7gto60063gcg6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/ano.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/backtop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/bannerbc.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/bannerbcxs.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/qr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/shdl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/ano.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/backtop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/qr.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/shdl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/shebei.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/wifibp1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/wifibp2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/wifibp3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/wifibp4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/wifibp5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/wifibp6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/wifii1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/analytics.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/css(1)" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/ga.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/gtm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/isInViewport.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/tracker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/underscore-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/8c81c420c693f04bba8684dca32a9c96.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/desktop-fiesta-fa6imegsmv0ftj4i.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/desktop-fiesta-fa6imegsmv0ftj4i.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/desktop-fiesta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/ff0b69d52804f0b21f00f02e6d7645ef.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/jweixin-1.0.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/meiqia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/howuse_files/z_stat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/8c81c420c693f04bba8684dca32a9c96.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/desktop-fiesta-fa6imegsmv0ftj4i.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/desktop-fiesta-fa6imegsmv0ftj4i.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/desktop-fiesta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/ff0b69d52804f0b21f00f02e6d7645ef.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/jweixin-1.0.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/meiqia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/index_files/z_stat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/8c81c420c693f04bba8684dca32a9c96.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/desktop-fiesta-fa6imegsmv0ftj4i.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/desktop-fiesta-fa6imegsmv0ftj4i.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/desktop-fiesta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/ff0b69d52804f0b21f00f02e6d7645ef.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/jweixin-1.0.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/meiqia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/join_files/z_stat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/sokution.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/8c81c420c693f04bba8684dca32a9c96.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/desktop-fiesta-fa6imegsmv0ftj4i.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/desktop-fiesta-fa6imegsmv0ftj4i.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/desktop-fiesta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/ff0b69d52804f0b21f00f02e6d7645ef.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/jweixin-1.0.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/laptop-illustration.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/meiqia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/phone-illustration.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/solution_files/z_stat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/8c81c420c693f04bba8684dca32a9c96.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/core.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/desktop-fiesta-fa6imegsmv0ftj4i.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/desktop-fiesta-fa6imegsmv0ftj4i.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/desktop-fiesta.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/ff0b69d52804f0b21f00f02e6d7645ef.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/jweixin-1.0.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/meiqia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/we_files/z_stat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/hm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/discuz_tips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/flickity-docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/flickity-docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/hm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/jquery.mobile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/jquery.tap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/合作加盟 _ 小云_files/v.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/discuz_tips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/flickity-docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/flickity-docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/hm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/jquery.mobile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/jquery.tap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/v.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/discuz_tips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/flickity-docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/flickity-docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/hm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/jquery.mobile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/jquery.tap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/about_files/v.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/countUp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/discuz_tips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/flickity-docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/flickity-docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/hm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/jquery.mobile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/jquery.tap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/index_files/v.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/discuz_tips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/flickity-docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/flickity-docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/hm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/jquery.mobile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/jquery.tap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/join_files/v.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/discuz_tips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/flickity-docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/flickity-docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/hm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/jquery.mobile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/jquery.tap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/news_files/v.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/discuz_tips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/flickity-docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/flickity-docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/font.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/jquery.mobile.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/jquery.tap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/小云/product_files/v.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商.html" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/WiFi_banner-0.5s-1200.gif" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/WiFi_banner-0.5s-1200.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/WiFi_banner-0.5s.gif" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/WiFi_banner-0.5s.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/ano.png" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/ano.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/backtop.png" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/backtop.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/bcgf.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/bcgf.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/bgpizza.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/bgpizza.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/bn1.jpg" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/bn1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/bn2.jpg" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/bn2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/bn3.jpg" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/bn3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/bnp1.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/bnp1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/bnp2.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/bnp2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/bnp3.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/bnp3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/bootstrap.min.css" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/bootstrap.min.js" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/coffeebeme.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/coffeebeme.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/countUp.js" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/countUp.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/dfjz.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/dfjz.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/discuz_tips.js" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/discuz_tips.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/dks.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/dks.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/dyl.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/dyl.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/dytbs.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/dytbs.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/flickity-docs.css" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/flickity-docs.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/flickity-docs.min.js" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/flickity-docs.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/font.css" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/font.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/gl.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/gl.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/hclm.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/hclm.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/hjh.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/hjh.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/hkl.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/hkl.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/hm.js" afterPath="$PROJECT_DIR$/小云/product_files/hm.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/hns.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/hns.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/hsjs.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/hsjs.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/hty.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/hty.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/hzy.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/hzy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/jquery.min.js" afterPath="$PROJECT_DIR$/小云/MVP/Postman _ Supercharge your API workflow_files/jquery-2.1.4.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/jquery.mobile.min.js" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/jquery.mobile.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/jquery.tap.js" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/jquery.tap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/kfc.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/kfc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/lcyg.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/lcyg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/llsty.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/llsty.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/logo.png" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/mlct.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/mlct.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/mzdp.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/mzdp.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/pizzahut.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/pizzahut.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/qr.jpg" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/qr.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/rc.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/rc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/sdkf.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/sdkf.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/shdl.png" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/shdl.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/style.css" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/tls.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/tls.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/v.js" afterPath="$PROJECT_DIR$/小云/MVP/关于 _ 小云_files/v.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/wawj.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/wawj.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/wdm.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/wdm.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/xcynhg.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/xcynhg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/xeq.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/xeq.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/xfy.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/xfy.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/xmyc.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/xmyc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/yctq.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/yctq.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/ycyz.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/ycyz.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/zgdx.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/zgdx.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/zgtt.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/zgtt.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/zgyd.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/zgyd.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/zlmlt.png" afterPath="$PROJECT_DIR$/小云/MVP/小云，国内领先的移动营销整合服务提供商_files/zlmlt.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/文案.md" afterPath="$PROJECT_DIR$/文案.md" />
     </list>
     <ignored path="lvye.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -457,24 +25,24 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="文案.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/文案.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="95">
+              <first_editor relative-caret-position="840">
                 <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/小云/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="1020">
               <caret line="69" column="74" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="74" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -501,7 +69,7 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/小云/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
+            <state relative-caret-position="2190">
               <caret line="147" column="47" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -533,7 +101,7 @@
       <file leaf-file-name="news.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/小云/news.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
+            <state relative-caret-position="1035">
               <caret line="70" column="110" selection-start-line="70" selection-start-column="110" selection-end-line="70" selection-end-column="110" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -545,7 +113,7 @@
       <file leaf-file-name="join.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/小云/join.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
+            <state relative-caret-position="3675">
               <caret line="246" column="53" selection-start-line="246" selection-start-column="53" selection-end-line="246" selection-end-column="53" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -557,8 +125,8 @@
       <file leaf-file-name="product.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/小云/product.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="199" column="122" selection-start-line="199" selection-start-column="122" selection-end-line="199" selection-end-column="122" />
+            <state relative-caret-position="141">
+              <caret line="195" column="19" selection-start-line="195" selection-start-column="19" selection-end-line="195" selection-end-column="19" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -657,7 +225,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -710,6 +277,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -844,7 +412,8 @@
       <workItem from="1466481329457" duration="11293000" />
       <workItem from="1466499175306" duration="2310000" />
       <workItem from="1466557480394" duration="617000" />
-      <workItem from="1466558968509" duration="8851000" />
+      <workItem from="1466558968509" duration="9767000" />
+      <workItem from="1466574718501" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="海互动的logo需要修改,黑白点的界面需要可以切换">
       <created>1466475583669</created>
@@ -881,11 +450,18 @@
       <option name="project" value="LOCAL" />
       <updated>1466559896203</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="小云Wifi完成">
+      <created>1466569044673</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1466569044673</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35501000" />
+    <option name="totallyTimeSpent" value="36422000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -898,24 +474,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="24" width="1319" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24884437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24884437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49702382" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17076923" sideWeight="0.5385208" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1702454" sideWeight="0.5385208" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32789558" sideWeight="0.4940476" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01993865" sideWeight="0.4614792" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -933,7 +509,8 @@
     <MESSAGE value="海互动的logo需要修改,黑白点的界面需要可以切换" />
     <MESSAGE value="河媒体 WaveMedia&#10;" />
     <MESSAGE value="河媒体 WaveMedia 完成&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="河媒体 WaveMedia 完成&#10;" />
+    <MESSAGE value="小云Wifi完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="小云Wifi完成" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -974,9 +551,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/海互动/说明.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
@@ -984,6 +558,9 @@
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/时光网络/Images/logo_baidu.jpg">
@@ -1090,29 +667,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/黑白点/说明.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MVP/solution_files/core.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1120,7 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1128,9 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
           <caret line="74" column="17" selection-start-line="74" selection-start-column="17" selection-end-line="74" selection-end-column="17" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1138,9 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
           <caret line="84" column="66" selection-start-line="84" selection-start-column="64" selection-end-line="84" selection-end-column="66" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1148,9 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6915">
           <caret line="461" column="67" selection-start-line="461" selection-start-column="67" selection-end-line="461" selection-end-column="67" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1158,9 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4710">
           <caret line="314" column="6" selection-start-line="314" selection-start-column="6" selection-end-line="314" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1168,33 +729,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="123" column="82" selection-start-line="123" selection-start-column="82" selection-end-line="123" selection-end-column="82" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#footer#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/v.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="53" column="102" selection-start-line="53" selection-start-column="98" selection-end-line="53" selection-end-column="102" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商_files/v.js" />
+    <entry file="file://$PROJECT_DIR$/小云/小云，国内领先的移动营销整合服务提供商.html" />
     <entry file="file://$PROJECT_DIR$/小云/about_files/v.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1247,22 +790,22 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/文案.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="95">
+          <first_editor relative-caret-position="840">
             <caret line="56" column="6" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/小云/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
+        <state relative-caret-position="2190">
           <caret line="147" column="47" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1282,7 +825,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/小云/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="1020">
           <caret line="69" column="74" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="74" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1293,7 +836,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/小云/join.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
+        <state relative-caret-position="3675">
           <caret line="246" column="53" selection-start-line="246" selection-start-column="53" selection-end-line="246" selection-end-column="53" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1303,7 +846,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/小云/news.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
+        <state relative-caret-position="1035">
           <caret line="70" column="110" selection-start-line="70" selection-start-column="110" selection-end-line="70" selection-end-column="110" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1313,8 +856,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/小云/product.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="199" column="122" selection-start-line="199" selection-start-column="122" selection-end-line="199" selection-end-column="122" />
+        <state relative-caret-position="141">
+          <caret line="195" column="19" selection-start-line="195" selection-start-column="19" selection-end-line="195" selection-end-column="19" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
